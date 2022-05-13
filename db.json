@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": 900,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 400,
+      "quantity": 700,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "AAAAA",
+      "price": 800,
+      "quantity": 200,
+      "selected": false,
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "BBBBBB",
+      "price": 800,
+      "quantity": 200,
+      "selected": false,
+      "available": true,
+      "id": 12
+    },
+    {
+      "id": 14,
+      "name": "LO",
+      "price": 22,
+      "quantity": 333,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "qqqq",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "PO",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "MO",
+      "price": 200,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
