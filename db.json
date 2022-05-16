@@ -13,8 +13,8 @@
       "name": "Printer",
       "price": 300,
       "quantity": 900,
-      "selected": true,
-      "available": true
+      "selected": false,
+      "available": false
     },
     {
       "id": 3,
@@ -25,20 +25,20 @@
       "available": true
     },
     {
+      "id": 10,
       "name": "AAAAA",
       "price": 800,
       "quantity": 200,
       "selected": false,
-      "available": true,
-      "id": 10
+      "available": false
     },
     {
-      "name": "BBBBBB",
+      "id": 12,
+      "name": "bbb",
       "price": 800,
       "quantity": 200,
       "selected": false,
-      "available": true,
-      "id": 12
+      "available": true
     },
     {
       "id": 14,
@@ -49,28 +49,12 @@
       "available": true
     },
     {
-      "id": 17,
-      "name": "PO",
+      "name": "dsvs",
       "price": 0,
-      "quantity": 0,
-      "selected": false,
-      "available": true
-    },
-    {
-      "id": 18,
-      "name": "MO",
-      "price": 200,
       "quantity": 0,
       "selected": true,
-      "available": true
-    },
-    {
-      "name": "nn",
-      "price": 0,
-      "quantity": 0,
-      "selected": false,
       "available": true,
-      "id": 19
+      "id": 15
     }
   ]
 }
