@@ -42,26 +42,18 @@
     },
     {
       "id": 14,
-      "name": "LO",
+      "name": "Ka",
       "price": 22,
       "quantity": 333,
-      "selected": false,
-      "available": true
-    },
-    {
-      "name": "qqqq",
-      "price": 0,
-      "quantity": 0,
       "selected": true,
-      "available": true,
-      "id": 16
+      "available": true
     },
     {
       "id": 17,
       "name": "PO",
       "price": 0,
       "quantity": 0,
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
@@ -71,6 +63,14 @@
       "quantity": 0,
       "selected": true,
       "available": true
+    },
+    {
+      "name": "nn",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true,
+      "id": 19
     }
   ]
 }
